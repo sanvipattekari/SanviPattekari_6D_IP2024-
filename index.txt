@@ -1,0 +1,62 @@
+<html>
+<title> Integrated Project by Sanvi Pattekari</title>
+<head>
+<style>
+body{
+font-family:'Raleway',sans-serif;
+background: liner-gradient(saffron, white, green);
+}
+.city{
+background-color: tomato;
+color: white;
+padding:10px;
+}
+#textfont{
+color: blue;
+font-size: 25;
+}
+</style>
+</head>
+<body align="center">
+<h2 class ="city"><welcome to Integrated Project created by</h2>
+<h3><b>SANVI PATTEKARI</b></h3>
+<table border = "3" width="30%"align="center">
+<tr bgcolor="cyan">
+<h3 id ="textfont">
+<th>Subject Name</th>
+<th>Topic</th>
+</h3>
+</tr>
+<tr>
+<th><a href="English.html">English</a></th>
+<th>India that is Bharat</th>
+</tr>
+<tr>
+<th><a href="Science.html">Science</a></th>
+<th>India that is Bharat</th>
+</tr>
+<tr>
+<th><a href="SST.html">SST</a></th>
+<th>India that is Bharat</th>
+</tr>
+<tr>
+<th><a href="Hindi.html">Hindi</a></th>
+<th>India that is Bharat</th>
+</tr>
+<tr>
+<th><a href="Marathi.html">Marathi</a></th>
+<th>India that is Bharat</th>
+</tr>
+<tr>
+<th><a href="Math.html"</a></th>
+<th>India that is Bharat</th>
+</tr>
+<tr>
+<th><a href="Art.html"</a></th>
+<th>India that is Bharat</th>
+</tr>
+</table>
+<br>
+<hr>
+</body>
+</html>
